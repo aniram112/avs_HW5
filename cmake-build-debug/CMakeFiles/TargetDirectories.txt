@@ -1,0 +1,3 @@
+/Users/MarinaRoshupkina/CLionProjects/avs_hw5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/MarinaRoshupkina/CLionProjects/avs_hw5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/MarinaRoshupkina/CLionProjects/avs_hw5/cmake-build-debug/CMakeFiles/avs_hw5.dir

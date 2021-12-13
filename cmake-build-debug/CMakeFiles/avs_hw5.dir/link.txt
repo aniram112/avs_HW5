@@ -1,0 +1,1 @@
+/usr/local/bin/g++-11  -std=c++17 -fopenmp -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/avs_hw5.dir/main.cpp.o -o avs_hw5 
